@@ -1,3 +1,3 @@
 # Git Course
 
-Este é um repositório para demonstrar como funciona o Git e o Github.
+Este é um repositório teste para ensinar como o Git funciona.
